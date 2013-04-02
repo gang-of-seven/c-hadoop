@@ -1,4 +1,4 @@
-c-hadpood
+c-hadoop
 =========
 
 Programming Hadoop with Clojure
